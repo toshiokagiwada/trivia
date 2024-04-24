@@ -6,6 +6,13 @@
 # 各スクリプトの説明
 
 ```
+trivia/haskell/
+```
+
+haskellの習作です。
+ちょっと記述がおかしい箇所があります。
+
+```
 trivia/tenki/kaisei-weather.sh
 trivia/tenki/tenki_icon.sed
 ```
